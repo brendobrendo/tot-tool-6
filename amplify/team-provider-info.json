@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "tottool6a1a32e85": {}
+      },
+      "api": {
+        "tottool6": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
